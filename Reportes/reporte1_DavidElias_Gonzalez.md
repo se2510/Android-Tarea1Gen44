@@ -11,7 +11,7 @@
 ## 👻 BESTO PROTECO COURSE 👻
 
 <p>
-  <img src="https://static.wikia.nocookie.net/clubpenguin/images/6/69/PC3_Igloo_Bass_Animation.gif/revision/latest?cb=20130323131902"  align = "right" width="200" >
+  <img src="https://static.wikia.nocookie.net/clubpenguin/images/6/69/PC3_Igloo_Bass_Animation.gif/revision/latest?cb=20130323131902"  align = "right" width="180" >
 </p>
 
 De todos los cursos de PROTECO, mis favoritos fueron:
@@ -54,6 +54,11 @@ El libro narra la vida de Yozo Oba, un joven atormentado y alienado que lucha po
 
 Es un libro que personalmente me encanta, porque lo leí en momentos donde empaticé con el protagonista, y el cual, me hizo ver las cosas de manera diferente. 
 
+<br>
+</br>
+<br>
+</br>
+
 <p>
   <img src="https://imagessl9.casadellibro.com/a/l/t7/79/9788499082479.jpg"  align = "right" width="220" >
 </p>
@@ -80,18 +85,26 @@ Canción escrita por Kenshi Yonezu como tema principal del nuevo juego de Final 
 
 Para mi todo lo que hace Kenshi Yonezu es muy bueno, y esta canción no es la excepción.
 
+  [![Tsuki wo miteita](https://img.youtube.com/vi/-1pj9t2RqrI/0.jpg)](https://www.youtube.com/watch?v=-1pj9t2RqrI)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-1pj9t2RqrI?controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+</br>
+
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/en/9/94/Sakanaction_Adapt_album_cover.jpg"  align = "right" width="220" >
 </p>
 
 
+
 #### Tsuki no wan - sakanaction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MzHZCfGQsVs?controls=0&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  [![Tsuki no wan](https://img.youtube.com/vi/MzHZCfGQsVs/0.jpg)](https://www.youtube.com/watch?v=MzHZCfGQsVs)
+
+<br>
+</br>
 
 <p>
   <img src="https://i.scdn.co/image/ab67616d0000b273d36eeeb6f757933ca3cc545c"  align = "right" width="220" >
@@ -101,8 +114,10 @@ Para mi todo lo que hace Kenshi Yonezu es muy bueno, y esta canción no es la ex
 #### Kinen Satsuei - BUMP OF CHICKEN 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FPLxRe4ho_A?controls=0&amp;start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>.
+  [![Tsuki wo miteita](https://img.youtube.com/vi/FPLxRe4ho_A/0.jpg)](https://www.youtube.com/watch?v=FPLxRe4ho_A)
 
+<br>
+</br>
 
 ### Animes 🔮
 
@@ -136,9 +151,11 @@ Los siguientes animes son con los que recientemente he estado más obsesionado/e
 Es mi serie favorita. La he visto muchas veces, y no me canso de verla, me encanta su humor y todo. Aunque el final no sea de lo mejor..
 
 <p align="center">
-  <img src="https://d1oj7jfp79z5xy.cloudfront.net/wp-content/uploads/2020/03/How-I-met-your-mother.png
-" width="800" >
+  <img src="https://d1oj7jfp79z5xy.cloudfront.net/wp-content/uploads/2020/03/How-I-met-your-mother.png" width="800" >
 </p>
+
+<br>
+</br>
 
 ### Hobbies 🎙️
 
